@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+My name is Bato. I'm a User Interface Engineer.
+
+- 🔭 I’m currently working on a tiny workout application done in Angular
+- 🌱 I’m currently learning more DB stuffz, Prisma and more
+- 👯 I’m looking to collaborate on anything where I can code UIs in web languages
+- 📫 How to reach me: Discord @3at0#8657
+
+
+
 <!--
 **3at0/3at0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
